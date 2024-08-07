@@ -20,13 +20,13 @@ They do so by claiming the altars which are scattered around the world so they c
 - [Project Plan ([https://miro.com](https://miro.com/app/board/uXjVNO3LMqk=/)
 - [TDD]([https://docs.google.com](https://docs.google.com/document/d/1tvpXFKsqQpr8xg52RNoeJNpcFVnPcnL_qjdM0OohHrI/edit)
 - [Board (https://trello.com)](https://trello.com/b/7v4JAn99/degame)
+  
+![arpg gif 1](https://github.com/user-attachments/assets/f3fa7bfb-10ff-4941-9157-19bc45974cd4)
 
-![arpg gif 1](https://github.com/user-attachments/assets/c8a987fe-b191-47c3-9cf1-32d46ecc573c)
+![arpg gif 2](https://github.com/user-attachments/assets/013b0cfe-0c6a-4cdc-8a6d-a84bc62547be)
 
-![arpg gif 2](https://github.com/user-attachments/assets/2f24ef72-32fd-4540-9e21-49be0a47dca1)
+![ARPG 2](https://github.com/user-attachments/assets/cf53acd1-ef6d-44a0-a027-151116757a96)
 
-![image](https://github.com/user-attachments/assets/5d4ef1b4-02e5-4638-b0e0-fb858ac32cf3)
+![ARPG 1](https://github.com/user-attachments/assets/7cc42988-6e9c-4556-83a1-03a85799400d)
 
-![image](https://github.com/user-attachments/assets/61149734-aad6-49a6-9a9a-8ec66d1b0661)
-
-![image](https://github.com/user-attachments/assets/e043d98e-2338-4c39-9866-62e90f8206ee)
+![ARPG 3](https://github.com/user-attachments/assets/e2e3334e-4a58-4a1c-b3d3-2794a5efb171)
